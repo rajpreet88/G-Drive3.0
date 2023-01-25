@@ -1,0 +1,8 @@
+1. npm i --save-dev hardhat
+    npx hardhat
+    npm install --save-dev "hardhat@^2.12.6" "@nomicfoundation/hardhat-toolbox@^2.0.0"
+2. npx create-react-app client
+3. npx hardhat node /// for running hardhat node
+4. npx hardhat run --network localhost scripts/deploy.js  /// for deploying the smart contract
+5. npm i axios
+6. npm  i dotenv
